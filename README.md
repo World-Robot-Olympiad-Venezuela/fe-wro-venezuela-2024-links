@@ -22,8 +22,8 @@ Equipos con repositorios públicos: 48
 | Electro Tech | [:octocat:](https://github.com/apguilar/ElectroTech-WRO-2024.git)
 | SCP079 | [:octocat:](https://github.com/Botkill27/scp-079/blob/master/main.py)
 | MK | [:octocat:](https://github.com/elkinnm/Mk)
-| AFTON TEAM | [:octocat:](https://github.com/danielvvhfk/WRO2024-AFTON-SMARTWHEELS.git)
-| BlackJack | [:octocat:](https://github.com/wallabiesvzla/Blackjackwrovzla.git) (El equipo cerró el repositorio)
+| AFTON TEAM | [:octocat:](https://github.com/danielvvhfk/WRO2024-AFTON-SMARTWHEELS.git) (El equipo cerró el repositorio)
+| BlackJack | [:octocat:](https://github.com/wallabiesvzla/Blackjackwrovzla.git)
 | TNT | [:octocat:](https://github.com/TNT-JEFFERSON/TERRENEITOR)
 
 Notas:
