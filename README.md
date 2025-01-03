@@ -3,9 +3,9 @@
 
 Este repositorio contiene enlaces a repositorios de equipos de competencias anteriores de futuros ingenieros de WRO. Sirve como un recurso para que los futuros participantes aprendan de los desarrollos anteriores.
 
-Equipos en total: 
+<strong>Equipos en total:</strong> 16
 
-Equipos con repositorios públicos: 48
+<strong>Equipos con repositorios públicos:</strong> 14
 
 | Team | Repository |
 |------|------------|
