@@ -17,13 +17,13 @@ Equipos con repositorios públicos: 48
 | ELEKTRO | [:octocat:](https://github.com/IAst22/Diario-de-ingenieria-Elektro)
 | Team Violet I | [:octocat:](https://github.com/reiruso07/WRO2024_Future_Engineers--Team-Violet)
 | CJL | [:octocat:](https://github.com/megasinser/CJL)
-| Team Stormbreaker | [:octocat:](https://github.com/TeamStormbreaker0906/proyectoWROGit)
+| Team Stormbreaker | [:octocat:](https://github.com/TeamStormbreaker0906/proyectoWROGit) (El equipo cerró el repositorio)
 | Team Spark | [:octocat:](https://github.com/KarenWon9/WRO-FI-Team-Spark.git)
 | Electro Tech | [:octocat:](https://github.com/apguilar/ElectroTech-WRO-2024.git)
 | SCP079 | [:octocat:](https://github.com/Botkill27/scp-079/blob/master/main.py)
 | MK | [:octocat:](https://github.com/elkinnm/Mk)
 | AFTON TEAM | [:octocat:](https://github.com/danielvvhfk/WRO2024-AFTON-SMARTWHEELS.git)
-| BlackJack | [:octocat:](https://github.com/wallabiesvzla/Blackjackwrovzla.git)
+| BlackJack | [:octocat:](https://github.com/wallabiesvzla/Blackjackwrovzla.git) (El equipo cerró el repositorio)
 | TNT | [:octocat:](https://github.com/TNT-JEFFERSON/TERRENEITOR)
 
 Notas:
